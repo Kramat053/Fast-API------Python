@@ -1,2 +1,1 @@
-print("Fast API")
-a = 2
+print("Fast APIs")
