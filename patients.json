@@ -1,0 +1,102 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Sara Butt",
+    "age": 69,
+    "gender": "Male",
+    "blood_type": "O-",
+    "condition": "Anxiety",
+    "phone": "+92-3417435857",
+    "admitted": false
+  },
+  {
+    "patient_id": "P002",
+    "name": "Noor Raza",
+    "age": 71,
+    "gender": "Female",
+    "blood_type": "O-",
+    "condition": "Diabetes",
+    "phone": "+92-3351844656",
+    "admitted": false
+  },
+  {
+    "patient_id": "P003",
+    "name": "Sara Khan",
+    "age": 42,
+    "gender": "Male",
+    "blood_type": "A+",
+    "condition": "Arthritis",
+    "phone": "+92-3405805699",
+    "admitted": false
+  },
+  {
+    "patient_id": "P004",
+    "name": "Ayesha Hussain",
+    "age": 28,
+    "gender": "Female",
+    "blood_type": "O-",
+    "condition": "Migraine",
+    "phone": "+92-3187780244",
+    "admitted": false
+  },
+  {
+    "patient_id": "P005",
+    "name": "Ayesha Hussain",
+    "age": 53,
+    "gender": "Male",
+    "blood_type": "A+",
+    "condition": "Asthma",
+    "phone": "+92-3256842390",
+    "admitted": false
+  },
+  {
+    "patient_id": "P006",
+    "name": "Sara Ahmed",
+    "age": 70,
+    "gender": "Male",
+    "blood_type": "A+",
+    "condition": "Allergy",
+    "phone": "+92-3495242687",
+    "admitted": true
+  },
+  {
+    "patient_id": "P007",
+    "name": "Ahmed Malik",
+    "age": 59,
+    "gender": "Male",
+    "blood_type": "A+",
+    "condition": "Arthritis",
+    "phone": "+92-3224375125",
+    "admitted": false
+  },
+  {
+    "patient_id": "P008",
+    "name": "Ali Ahmed",
+    "age": 47,
+    "gender": "Female",
+    "blood_type": "B+",
+    "condition": "Migraine",
+    "phone": "+92-3295746518",
+    "admitted": true
+  },
+  {
+    "patient_id": "P009",
+    "name": "Noor Khan",
+    "age": 30,
+    "gender": "Male",
+    "blood_type": "B-",
+    "condition": "Flu",
+    "phone": "+92-3359168774",
+    "admitted": true
+  },
+  {
+    "patient_id": "P010",
+    "name": "Ahmed Qureshi",
+    "age": 41,
+    "gender": "Female",
+    "blood_type": "A+",
+    "condition": "Arthritis",
+    "phone": "+92-3486141630",
+    "admitted": false
+  }
+]
